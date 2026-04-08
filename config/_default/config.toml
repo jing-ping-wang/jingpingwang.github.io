@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://jingpingwang.github.io/"
+baseurl      = "https://jing-ping-wang.github.io/"
 languageCode = "zh-tw"
 title        = "About JP's life"
 
