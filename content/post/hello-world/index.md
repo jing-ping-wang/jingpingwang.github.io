@@ -1,20 +1,17 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: Greeting
+description: 
+slug: hello
+date: 2026-04-08 00:00:00+0000
 image: cover.jpg
 categories:
     - Example Category
 tags:
-    - Example Tag
+    - PMP
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+大家好 我是 JP，一個工作十多年的軟體工程師。
+PMP，PMI-ACP的證照持有者。
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+想透過這個blog跟大家分享一個考證照的心得
